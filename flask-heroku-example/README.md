@@ -1,8 +1,5 @@
 
 ##### 1. Clone the repo
-```bash
-$ git clone https://github.com/rmotr-curriculum/flask-heroku-example.git && cd flask-heroku-example
-```
 
 ##### 2. Login to Heroku
 ```bash
