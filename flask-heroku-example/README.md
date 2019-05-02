@@ -32,7 +32,5 @@ $ heroku pg:psql < initial_data.sql
 $ git push heroku master
 ```
 
-## Running the app locally
-_(You need to have installed Postgres locally to run the app. For a simpler sqlite alternative, please check the aforementioned tutorial)_
 
 
